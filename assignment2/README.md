@@ -12,10 +12,10 @@ If you weren't able to make it to the last comp meeting, or if you simply want a
 
 The core algorithm is outlined in Section 3 of the document, though it's worth looking at the rest of the sections for a deeper understanding of Gale-Shapley. 
 
-The material can be a bit difficult to wrestle with on a first pass, so definitely reach out to us (Iris and Steve) with questions!  
+The material can be a bit difficult to wrestle with on a first pass, so definitely reach out to us (Iris and Iñaki) with questions!  
 
 ## Due Date & Logistics
-This assignment is due on **Tuesday, November 8th at 11:59 PM EST**. We recommend forking this repository and then sending either one of us (Iris or Steve) the link when you're ready. When you fork, make sure to set this repository as the upstream repository so you can pull any changes we make.
+This assignment is due on **Saturday, November 11th at 11:59 PM EST**. We recommend forking this repository and then sending either one of us (Iris or Iñaki) the link when you're ready. When you fork, make sure to set this repository as the upstream repository so you can pull any changes we make.
 
 ## Running Your Code
 ```python3 match.py```
